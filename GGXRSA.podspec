@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GGXRSA'
-  s.version          = '0.1.0'
-  s.summary          = 'feat:RSA加解密'
+  s.version          = '0.1.1'
+  s.summary          = 'fix:RSA解密时闪退'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
