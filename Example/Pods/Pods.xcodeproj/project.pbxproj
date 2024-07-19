@@ -1,0 +1,609 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		03DA1B5B31DCC4DB5984C5945708BD89 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B9E7E0E0DA9F0300785CBA0FA39427 /* ReplaceMe.swift */; };
+		044F4CB61E49B278018F56B9A1094342 /* Pods-GGXRSA_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 137B54F5323DF1A654089EE91C263973 /* Pods-GGXRSA_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		14FA0600884F10B0EF998C23AB404234 /* GGXRSA-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 51F0B5C249966DB17C736BD49246DE20 /* GGXRSA-dummy.m */; };
+		5392A3600966123A1B8E243421F813C3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		A3F57AED47BA2E632EC6BB4335583D02 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		B7739858F88BFC022AA8A6B37F29D900 /* GGXRSA.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDEF53F4AA74F60ADC0EDF72A16DF39E /* GGXRSA.swift */; };
+		D017BAF50CC39A8FDE148ECBA8271245 /* GGXRSA-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 704B543EDFEEE6D49AD58351BF0EDA96 /* GGXRSA-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EC0B24C7210AD96002FBB4B04A70295F /* Pods-GGXRSA_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E2E4332F3EDFAE21D543040BBA18D9 /* Pods-GGXRSA_Example-dummy.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		AA04241025D261539E504981B5EE560A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = BFD90B9736CB523DDDACE0629DD3F879;
+			remoteInfo = GGXRSA;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		00E2E4332F3EDFAE21D543040BBA18D9 /* Pods-GGXRSA_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-GGXRSA_Example-dummy.m"; sourceTree = "<group>"; };
+		12E4A10811457D4387A6C58E2A53F29E /* Pods-GGXRSA_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-GGXRSA_Example-Info.plist"; sourceTree = "<group>"; };
+		137B54F5323DF1A654089EE91C263973 /* Pods-GGXRSA_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-GGXRSA_Example-umbrella.h"; sourceTree = "<group>"; };
+		1BD4A6B8173E549F559049AD577BD7AB /* Pods-GGXRSA_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-GGXRSA_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		25163BD2E0FF5BCDCC6ED02010198121 /* Pods-GGXRSA_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GGXRSA_Example-frameworks.sh"; sourceTree = "<group>"; };
+		4029D2C255590C5C2CB7FD749AD7FD47 /* GGXRSA.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = GGXRSA.podspec; sourceTree = "<group>"; tabWidth = 2; };
+		464D19853018E3552A63372A2225D02A /* GGXRSA.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = GGXRSA.modulemap; sourceTree = "<group>"; };
+		51675C38CDB84A0AC456ADE7AC4DB427 /* GGXRSA-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "GGXRSA-Info.plist"; sourceTree = "<group>"; };
+		51F0B5C249966DB17C736BD49246DE20 /* GGXRSA-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "GGXRSA-dummy.m"; sourceTree = "<group>"; };
+		52B9E7E0E0DA9F0300785CBA0FA39427 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = GGXRSA/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
+		704B543EDFEEE6D49AD58351BF0EDA96 /* GGXRSA-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "GGXRSA-umbrella.h"; sourceTree = "<group>"; };
+		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		8902299D801E8F0A74088D5F479F0E82 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		8ACCC9E48DD17CB80AE0FB81332B5F5F /* GGXRSA.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = GGXRSA.release.xcconfig; sourceTree = "<group>"; };
+		8F2B63362C56F16BA4421BF0E6E136AA /* Pods-GGXRSA_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GGXRSA_Example.release.xcconfig"; sourceTree = "<group>"; };
+		99EA793FE6065A5FF7B3A8AC807DDF08 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A354F14EA588695721BF41B15AC037FB /* Pods-GGXRSA_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-GGXRSA_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		B050AFFD173F0735336E51F087F0A72D /* Pods-GGXRSA_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GGXRSA_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		B183CA93CE03CFD5AE6DF28585F8EA56 /* GGXRSA-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "GGXRSA-prefix.pch"; sourceTree = "<group>"; };
+		BC7A5A372376100F69551C7F3A24388E /* Pods-GGXRSA_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-GGXRSA_Example"; path = Pods_GGXRSA_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D2DC0BD048BA3411AD7A883540307E2F /* GGXRSA.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = GGXRSA.debug.xcconfig; sourceTree = "<group>"; };
+		DDEF53F4AA74F60ADC0EDF72A16DF39E /* GGXRSA.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = GGXRSA.swift; path = GGXRSA/Classes/GGXRSA.swift; sourceTree = "<group>"; };
+		E676A7E81B370DCECCA120721ADFC18B /* Pods-GGXRSA_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-GGXRSA_Example.modulemap"; sourceTree = "<group>"; };
+		F34295B17153F8F6BC873831CC78DD52 /* GGXRSA */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = GGXRSA; path = GGXRSA.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8292214C0E3A908528D9D15FAE09DAA0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5392A3600966123A1B8E243421F813C3 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		844EB5AFB07856E6F2A1DC85E9C595FD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A3F57AED47BA2E632EC6BB4335583D02 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		235E967D775BF247F3A7B7AB17F0F561 /* Pods-GGXRSA_Example */ = {
+			isa = PBXGroup;
+			children = (
+				E676A7E81B370DCECCA120721ADFC18B /* Pods-GGXRSA_Example.modulemap */,
+				1BD4A6B8173E549F559049AD577BD7AB /* Pods-GGXRSA_Example-acknowledgements.markdown */,
+				A354F14EA588695721BF41B15AC037FB /* Pods-GGXRSA_Example-acknowledgements.plist */,
+				00E2E4332F3EDFAE21D543040BBA18D9 /* Pods-GGXRSA_Example-dummy.m */,
+				25163BD2E0FF5BCDCC6ED02010198121 /* Pods-GGXRSA_Example-frameworks.sh */,
+				12E4A10811457D4387A6C58E2A53F29E /* Pods-GGXRSA_Example-Info.plist */,
+				137B54F5323DF1A654089EE91C263973 /* Pods-GGXRSA_Example-umbrella.h */,
+				B050AFFD173F0735336E51F087F0A72D /* Pods-GGXRSA_Example.debug.xcconfig */,
+				8F2B63362C56F16BA4421BF0E6E136AA /* Pods-GGXRSA_Example.release.xcconfig */,
+			);
+			name = "Pods-GGXRSA_Example";
+			path = "Target Support Files/Pods-GGXRSA_Example";
+			sourceTree = "<group>";
+		};
+		2D37B5B9227823E36ADCAB31A8F084E6 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				4029D2C255590C5C2CB7FD749AD7FD47 /* GGXRSA.podspec */,
+				8902299D801E8F0A74088D5F479F0E82 /* LICENSE */,
+				99EA793FE6065A5FF7B3A8AC807DDF08 /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		435EBA38412A50F353F22B1971377737 /* GGXRSA */ = {
+			isa = PBXGroup;
+			children = (
+				DDEF53F4AA74F60ADC0EDF72A16DF39E /* GGXRSA.swift */,
+				52B9E7E0E0DA9F0300785CBA0FA39427 /* ReplaceMe.swift */,
+				2D37B5B9227823E36ADCAB31A8F084E6 /* Pod */,
+				4B379C539C0E0FAE7497E11C71EC52B3 /* Support Files */,
+			);
+			name = GGXRSA;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		4B379C539C0E0FAE7497E11C71EC52B3 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				464D19853018E3552A63372A2225D02A /* GGXRSA.modulemap */,
+				51F0B5C249966DB17C736BD49246DE20 /* GGXRSA-dummy.m */,
+				51675C38CDB84A0AC456ADE7AC4DB427 /* GGXRSA-Info.plist */,
+				B183CA93CE03CFD5AE6DF28585F8EA56 /* GGXRSA-prefix.pch */,
+				704B543EDFEEE6D49AD58351BF0EDA96 /* GGXRSA-umbrella.h */,
+				D2DC0BD048BA3411AD7A883540307E2F /* GGXRSA.debug.xcconfig */,
+				8ACCC9E48DD17CB80AE0FB81332B5F5F /* GGXRSA.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/GGXRSA";
+			sourceTree = "<group>";
+		};
+		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		8992D9A705D9BD7E3A10DF081F52E468 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				435EBA38412A50F353F22B1971377737 /* GGXRSA */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		905104BDF10BF59868876FE39233DF12 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F34295B17153F8F6BC873831CC78DD52 /* GGXRSA */,
+				BC7A5A372376100F69551C7F3A24388E /* Pods-GGXRSA_Example */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		90905AC40682666AD3CE43BE86A08F65 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				235E967D775BF247F3A7B7AB17F0F561 /* Pods-GGXRSA_Example */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		CF1408CF629C7361332E53B88F7BD30C = {
+			isa = PBXGroup;
+			children = (
+				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
+				8992D9A705D9BD7E3A10DF081F52E468 /* Development Pods */,
+				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
+				905104BDF10BF59868876FE39233DF12 /* Products */,
+				90905AC40682666AD3CE43BE86A08F65 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				578452D2E740E91742655AC8F1636D1F /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		024FD1BB10F89B99F3B0E323A16B757A /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				044F4CB61E49B278018F56B9A1094342 /* Pods-GGXRSA_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4D4BB2D04BE447662D172C67D2595D44 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D017BAF50CC39A8FDE148ECBA8271245 /* GGXRSA-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		BFD90B9736CB523DDDACE0629DD3F879 /* GGXRSA */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C06D819C53BB3505625E07D1A91D975D /* Build configuration list for PBXNativeTarget "GGXRSA" */;
+			buildPhases = (
+				4D4BB2D04BE447662D172C67D2595D44 /* Headers */,
+				DDC8BAE14D53F1DC4144461D726B4A65 /* Sources */,
+				8292214C0E3A908528D9D15FAE09DAA0 /* Frameworks */,
+				C1456A84E34830287AB754F3F936C448 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GGXRSA;
+			productName = GGXRSA;
+			productReference = F34295B17153F8F6BC873831CC78DD52 /* GGXRSA */;
+			productType = "com.apple.product-type.framework";
+		};
+		E23C2A2E4DA1DFA2A779A0DB980A3437 /* Pods-GGXRSA_Example */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C632485CB1754CCC6A72B1F93A762D85 /* Build configuration list for PBXNativeTarget "Pods-GGXRSA_Example" */;
+			buildPhases = (
+				024FD1BB10F89B99F3B0E323A16B757A /* Headers */,
+				D586CDC372A3BDDADF9CA06EBDC37BD9 /* Sources */,
+				844EB5AFB07856E6F2A1DC85E9C595FD /* Frameworks */,
+				6A089A0C5E6675556AF9451601A6B116 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				23C060A9F5DD08C1C00A2B95BB19B70C /* PBXTargetDependency */,
+			);
+			name = "Pods-GGXRSA_Example";
+			productName = Pods_GGXRSA_Example;
+			productReference = BC7A5A372376100F69551C7F3A24388E /* Pods-GGXRSA_Example */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+			};
+			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
+			productRefGroup = 905104BDF10BF59868876FE39233DF12 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BFD90B9736CB523DDDACE0629DD3F879 /* GGXRSA */,
+				E23C2A2E4DA1DFA2A779A0DB980A3437 /* Pods-GGXRSA_Example */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6A089A0C5E6675556AF9451601A6B116 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C1456A84E34830287AB754F3F936C448 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D586CDC372A3BDDADF9CA06EBDC37BD9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC0B24C7210AD96002FBB4B04A70295F /* Pods-GGXRSA_Example-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DDC8BAE14D53F1DC4144461D726B4A65 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B7739858F88BFC022AA8A6B37F29D900 /* GGXRSA.swift in Sources */,
+				14FA0600884F10B0EF998C23AB404234 /* GGXRSA-dummy.m in Sources */,
+				03DA1B5B31DCC4DB5984C5945708BD89 /* ReplaceMe.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		23C060A9F5DD08C1C00A2B95BB19B70C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = GGXRSA;
+			target = BFD90B9736CB523DDDACE0629DD3F879 /* GGXRSA */;
+			targetProxy = AA04241025D261539E504981B5EE560A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		1CD2AD182164CBE1EF2E66FB97ABAC1C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D2DC0BD048BA3411AD7A883540307E2F /* GGXRSA.debug.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/GGXRSA/GGXRSA-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/GGXRSA/GGXRSA-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/GGXRSA/GGXRSA.modulemap";
+				PRODUCT_MODULE_NAME = GGXRSA;
+				PRODUCT_NAME = GGXRSA;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		3ABC7B692FA93495AC17CB5C88D7F7D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8F2B63362C56F16BA4421BF0E6E136AA /* Pods-GGXRSA_Example.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-GGXRSA_Example/Pods-GGXRSA_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-GGXRSA_Example/Pods-GGXRSA_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		7EE7A78859F657F6BEFC651185B43192 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		9B329BF8E688CFE6798BC2CB4BC94A28 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B050AFFD173F0735336E51F087F0A72D /* Pods-GGXRSA_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-GGXRSA_Example/Pods-GGXRSA_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-GGXRSA_Example/Pods-GGXRSA_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		B75184BE9E649789F13E092C6D8B91C4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8ACCC9E48DD17CB80AE0FB81332B5F5F /* GGXRSA.release.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/GGXRSA/GGXRSA-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/GGXRSA/GGXRSA-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/GGXRSA/GGXRSA.modulemap";
+				PRODUCT_MODULE_NAME = GGXRSA;
+				PRODUCT_NAME = GGXRSA;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		D299434AB35E7FD6F7921C8EF24742FF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D299434AB35E7FD6F7921C8EF24742FF /* Debug */,
+				7EE7A78859F657F6BEFC651185B43192 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C06D819C53BB3505625E07D1A91D975D /* Build configuration list for PBXNativeTarget "GGXRSA" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1CD2AD182164CBE1EF2E66FB97ABAC1C /* Debug */,
+				B75184BE9E649789F13E092C6D8B91C4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C632485CB1754CCC6A72B1F93A762D85 /* Build configuration list for PBXNativeTarget "Pods-GGXRSA_Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9B329BF8E688CFE6798BC2CB4BC94A28 /* Debug */,
+				3ABC7B692FA93495AC17CB5C88D7F7D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+}
